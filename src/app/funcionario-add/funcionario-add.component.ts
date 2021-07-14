@@ -46,6 +46,8 @@ export class FuncionarioAddComponent implements OnInit {
 
     });
     this.funcionarioForm.reset();
+
+
   }
 
   ngOnInit(): void {
